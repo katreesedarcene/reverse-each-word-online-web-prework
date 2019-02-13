@@ -6,7 +6,7 @@ def reverse_each_word(sentence1)
   
    new_sentence << new_array
    
-   new_array
+   new_array.join()
 
  end
  
